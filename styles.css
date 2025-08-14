@@ -1,0 +1,10 @@
+:root { color-scheme: light; }
+body { background:#f9fafb; color:#111827; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji'; }
+.card { background:#fff; border-radius:16px; box-shadow:0 1px 4px rgba(0,0,0,.06); padding:16px; }
+.input { border:1px solid #e5e7eb; border-radius:12px; padding:10px 12px; width:100%; }
+.btn { background:#111827; color:#fff; border-radius:12px; padding:10px 14px; }
+.link { color:#2563eb; text-decoration:underline; }
+.table { width:100%; font-size:14px; border-collapse: collapse; }
+.th, .td { padding:8px; text-align:left; border-bottom:1px solid #e5e7eb; }
+.badge { background:#f3f4f6; border-radius:999px; padding:4px 10px; font-size:12px; }
+.grid { display:grid; gap:16px; }
